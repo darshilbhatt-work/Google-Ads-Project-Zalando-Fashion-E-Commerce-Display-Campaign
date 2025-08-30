@@ -73,4 +73,4 @@ This is a mock Google Ads campaign created for portfolio purposes to demonstrate
 - Email: darshilbhatt.business@gmail.com 
 - LinkedIn: [Darshil Bhatt](https://www.linkedin.com/in/darshil-bhatt-a2a6bb22a/)
 
-- 
+  
